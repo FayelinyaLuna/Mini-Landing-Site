@@ -14,3 +14,11 @@ li {
 li.list-group-item {
 		color: white !important;
 }
+
+a {
+	color:#F5C400;
+}
+
+a:hover {
+	color:#FF9900;
+}
